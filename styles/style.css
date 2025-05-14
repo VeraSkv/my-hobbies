@@ -1,0 +1,30 @@
+body {
+    font: 500 18px "blackadder ITC", "Californian FB", sans-serif;
+}
+
+header {
+    text-align: center;
+    font-style: italic;
+    border: 2px dotted darkorchid;
+    background-color: rgba(153, 50, 204, .9);
+    border-radius: 50px;
+}
+
+section {
+    border: 2px dotted rgb(211, 15, 113);
+    background-color: rgba(211, 15, 113, .3);
+    border-radius: 10px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+footer {
+    background-image: url(../images/beach.jpg);
+    background-repeat: no-repeat;
+}
